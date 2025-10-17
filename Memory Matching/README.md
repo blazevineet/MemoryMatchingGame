@@ -1,7 +1,7 @@
-# 🧩 Adventure Match — Advanced Memory Matching Game  
+# 🧩 Trailblazer Match — Advanced Memory Matching Game  
 
 ## 🎮 Project Overview  
-**Adventure Match** is an advanced **Memory Matching Game** built using **HTML, CSS, and JavaScript**.  
+** Trailblazer Match** is an advanced **Memory Matching Game** built using **HTML, CSS, and JavaScript**.  
 Inspired by the thrill of **adventure tourism**, the game challenges players to match pairs of icons to complete an “expedition.” Each match brings players closer to victory, blending **interactive gameplay** with a **visually engaging adventure theme**.  
 
 This project showcases **intermediate to advanced front-end development skills**, with a focus on responsive design, dynamic UI generation, and efficient state management.
